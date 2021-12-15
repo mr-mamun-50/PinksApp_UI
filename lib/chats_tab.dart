@@ -25,20 +25,20 @@ class _ChatsTabState extends State<ChatsTab> {
     'Sincere'
   ];
   var msgList = [
-    '   Hi',
-    '   Hello',
-    '   How are you',
-    '   I`m coming',
-    '   where are you now?',
-    '   How are you',
-    '   Hi',
-    '   Hello',
-    '   How are you',
-    '   Hello',
-    '   How are you',
-    '   I`m coming',
-    '   where are you now?',
-    '   hi'
+    '  Hi',
+    '  Hello',
+    '  How are you',
+    '  I`m coming',
+    '  where are you now?',
+    '  How are you',
+    '  Hi',
+    '  Hello',
+    '  How are you',
+    '  Hello',
+    '  How are you',
+    '  I`m coming',
+    '  where are you now?',
+    '  hi'
   ];
   var imgList = [
     'images/pic1.jpg',
